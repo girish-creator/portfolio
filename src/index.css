@@ -4,8 +4,8 @@
   --font-base: 'Cormorant Upright', serif;
   --font-alt: 'Open Sans', sans-serif;
   
-  --gradient-text: linear-gradient(89.97deg, #4b0708 1.84%, #080619 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #4b0708 -13.86%, #080619 99.55%);
+  --gradient-text: linear-gradient(89.97deg, #dd0c0c 1.84%, #ff6a00 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #dd0c0c 1.84%, #ff6a00 102.67%);
   --color-golden: #DCCA87;
   --color-black: #0C0C0C;
   --color-gray: #545454;

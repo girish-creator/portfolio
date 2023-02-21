@@ -1,6 +1,6 @@
 import './App.css';
 import { Article, Navbar } from './components';
-import { Experiance, Footer, Header, About, Subscribe, Skill, Portfolios } from './containers';
+import { experience, Footer, Header, About, Subscribe, Skill, Projects } from './containers';
 
 function App() {
   return (
@@ -8,10 +8,10 @@ function App() {
       <div className="gradient__bg">
         <Navbar />
         <Header />
+        <Projects />
       </div>
-      <Portfolios />
       <Skill />
-      <Experiance />
+      <experience />
       <About />
       <Subscribe />
       <Footer />

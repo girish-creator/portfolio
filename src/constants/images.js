@@ -22,6 +22,8 @@ import quote from '../assets/quote.png';
 import radial from '../assets/Radial-logos_white-reduced-size.png';
 import people from '../assets/people.png';
 import ai from '../assets/ai.png';
+import auto_dev from '../assets/transparent_automation_dev.png';
+import ai_auto from '../assets/transparent_ai_auto.png';
 
 export default {
   bg,
@@ -47,5 +49,7 @@ export default {
   quote,
   radial,
   people,
-  ai
+  ai,
+  auto_dev,
+  ai_auto,
 };
